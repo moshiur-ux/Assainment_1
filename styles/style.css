@@ -1,9 +1,10 @@
 body {
-    
+
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
 
 }
+
 .btn-primary {
     border-radius: 8px;
     border: 0px;
@@ -14,41 +15,41 @@ body {
     padding: 15px 35px;
 
 }
-.image-container
-{
+
+.image-container {
     width: 1602px;
     height: 850px;
     background: #FFF;
 
 }
 
-.header
-{
+.header {
 
     width: 1602px;
     height: 850px;
     background: rgba(229, 84, 115, 0.10);
     background-repeat: no-repeat;
 }
-.banner-title
-{
+
+.banner-title {
     color: #272727;
-font-family: Lato;
-font-size: 60px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
+    font-family: Lato;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
 
 }
+
 .banner-content {
     width: 635px;
-  height: 800px;
-  margin-left: 150px;
-  padding-top: 197px;
+    height: 800px;
+    margin-left: 150px;
+    padding-top: 197px;
 }
 
 .banner {
-     padding: 30px 30px 0px 150px; 
+    padding: 30px 30px 0px 150px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -61,104 +62,100 @@ line-height: normal;
 
 }
 
-.profile-pic 
-{
+.profile-pic {
     margin-right: 240px;
 }
 
-.title{
+.title {
 
     color: #272727;
-text-align: center;
-font-size: 40px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
 }
 
-.description
-{
+.description {
     color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-family: Lato;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
 }
-.image-row
-{
+
+.image-row {
     display: flex;
     justify-content: center;
     gap: 24px;
 }
-.item
-{
+
+.item {
     width: 464px;
     height: 538px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
 
 }
-.img1
-{
+
+.img1 {
     margin-left: 100px;
     width: 310px;
     height: 428px;
     padding-top: 110px;
 
-   
+
 
 }
 
-.img2
-{
+.img2 {
     margin-left: 100px;
     width: 310px;
     height: 428px;
     padding-top: 110px;
 }
-.img3
-{
+
+.img3 {
     margin-left: 100px;
     width: 310px;
     height: 428px;
     padding-top: 110px;
 
 }
-.item1{
+
+.item1 {
     width: 464px;
     height: 538px;
 
     border-radius: 300px 300px 0px 0px;
-background: rgba(5, 151, 160, 0.15);
+    background: rgba(5, 151, 160, 0.15);
 
 
 }
 
-.item2
-{
+.item2 {
 
     width: 464px;
     height: 538px;
     border-radius: 300px 300px 0px 0px;
-   background: rgba(71, 125, 17, 0.15);
+    background: rgba(71, 125, 17, 0.15);
 }
 
-.image-footer
-{
+.image-footer {
     color: #272727;
-text-align: center;
-font-size: 24px;
-font-weight: 700;
-line-height: 35px;
-text-decoration-line: underline;
-padding: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    padding: 10px;
 }
 
 
 
- .second_section {
+.second_section {
     width: 1602px;
     height: 500px;
     border-radius: 8px;
@@ -178,7 +175,7 @@ padding: 10px;
 
 }
 
- /* .second_banner_content {}  */
+/* .second_banner_content {}  */
 
 .second_banner-title {
     color: #272727;
@@ -205,10 +202,10 @@ padding: 10px;
     margin-top: 10px;
 }
 
- .btn-primary-2nd {
-  
+.btn-primary-2nd {
+
     padding: 20px 43px;
-   
+
     gap: 10px;
     border-radius: 8px;
     background: #E55473;
@@ -222,38 +219,37 @@ padding: 10px;
     margin-top: 10px;
 
 }
-.sectioninsta
-{
+
+.sectioninsta {
 
     color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 40px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
-}
-.section-ptag
-{
-
-color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-size: 18px;
-font-weight: 400;
-
-
-
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
 }
 
- .profile-pic_2 {
+.section-ptag {
+
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+
+
+
+}
+
+.profile-pic_2 {
     width: 318px;
     height: 420px;
     margin-right: 429px;
 
-} 
+}
 
-.imagecontainer
-{
+.imagecontainer {
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -263,62 +259,107 @@ font-weight: 400;
     border-radius: 5px;
 }
 
-.insta_section
-{
-    
+.insta_section {
+
     width: 1602px;
     height: 850px;
 
     background: #FFF;
-   
+
 
 }
-.imginsta{
+
+.imginsta {
     width: 342px;
-height: 396px;
-background: rgba(167, 33, 98, 0.15);
+    height: 396px;
+    background: rgba(167, 33, 98, 0.15);
 
 }
-.insta
-{
+
+.insta {
     text-align: center;
 }
-.footersection
+
+.endsection1
 {
 
-width: 1622px;
-height: 449px;
-background: #111010;
+    text-align: center;
+    margin: 20px;
+    padding: 50px;
 }
-.footertitle
+.endsection0
 {
+
+    background-image: url('/images/Rectangle.png');
+    background-repeat: no-repeat;
+    width: 1500px;
+    height: 850px;
+    margin-left:140px;
+    margin-bottom: 100px;
+}
+
+.endtitle1
+{
+
+    color: #272727;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.endescription1
+{
+
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.footersection {
+
+    width: 1622px;
+    height: 449px;
+    background: #111010;
+}
+
+.footertitle {
     color: #FFF;
     text-align: center;
     margin-top: 100px;
     font-size: 40px;
     justify-content: center;
-    margin-top:128px;
+    margin-top: 128px;
     padding-top: 128px;
-    
+
 }
+
 .textaling {
     color: #E55473;
 }
 
-.footerdescription
-{
+.footerdescription {
     color: rgba(255, 255, 255, 0.90);
     text-align: center;
     font-size: 18px;
-    
+
 
 }
 
-.footerpadding{
+.footerpadding {
     color: rgba(255, 255, 255, 0.40);
     text-align: center;
     font-size: 16px;
     font-weight: 400;
 
 }
-
