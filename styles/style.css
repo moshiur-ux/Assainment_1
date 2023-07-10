@@ -280,14 +280,14 @@ background: rgba(167, 33, 98, 0.15);
 {
     text-align: center;
 }
-.footer-section
+.footersection
 {
 
 width: 1622px;
 height: 449px;
 background: #111010;
 }
-.footer_title
+.footertitle
 {
     color: #FFF;
     text-align: center;
@@ -298,11 +298,11 @@ background: #111010;
     padding-top: 128px;
     
 }
-.text-aling {
+.textaling {
     color: #E55473;
 }
 
-.footer_description
+.footerdescription
 {
     color: rgba(255, 255, 255, 0.90);
     text-align: center;
@@ -311,7 +311,7 @@ background: #111010;
 
 }
 
-.footer-padding{
+.footerpadding{
     color: rgba(255, 255, 255, 0.40);
     text-align: center;
     font-size: 16px;
