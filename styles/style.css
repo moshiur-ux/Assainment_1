@@ -284,15 +284,15 @@ body {
 
     text-align: center;
     margin: 20px;
-    padding: 50px;
+    padding: 5px;
 }
 
 .endsection0 {
 
     background-image: url('../images/Rectangle.png');
     background-repeat: no-repeat;
-    width: 1500px;
-    height: 850px;
+    width: 1600px;
+    height: 450px;
     margin-left: 140px;
 
 }
@@ -313,16 +313,17 @@ body {
     text-align: center;
     font-size: 18px;
     margin-top: 20px;
+
 }
 
-.endform1 {
+.someimpure {
     width: 700px;
     height: 64px;
     border-radius: 8px;
     background: #FFF;
 }
 
-.btn-primary4{
+.btn-primary4 {
     width: 150px;
     height: 64px;
     border-radius: 8px;
