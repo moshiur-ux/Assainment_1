@@ -79,11 +79,11 @@ body {
 .description {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
-    font-family: Lato;
     font-size: 18px;
-    font-style: normal;
     font-weight: 400;
     line-height: 30px;
+    width: 50%;
+    margin: auto;
 }
 
 .image-row {
@@ -339,13 +339,6 @@ body {
     padding: 15px 35px;
 }
 
-
-
-
-
-
-
-
 .footersection {
 
     width: 1622px;
@@ -381,5 +374,17 @@ body {
     text-align: center;
     font-size: 16px;
     font-weight: 400;
+
+}
+
+.item_name textarea
+{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 400;
+    background-color: #9a6464;
+    color: #FFF;
+    width:300px;
+     border-radius: 8px;
 
 }
