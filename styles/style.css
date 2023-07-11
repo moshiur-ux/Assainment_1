@@ -280,26 +280,24 @@ body {
     text-align: center;
 }
 
-.endsection1
-{
+.endsection1 {
 
     text-align: center;
     margin: 20px;
     padding: 50px;
 }
-.endsection0
-{
+
+.endsection0 {
 
     background-image: url('../images/Rectangle.png');
     background-repeat: no-repeat;
     width: 1500px;
     height: 850px;
-    margin-left:140px;
-    margin-bottom: 100px;
+    margin-left: 140px;
+
 }
 
-.endtitle1
-{
+.endtitle1 {
 
     color: #272727;
     text-align: center;
@@ -308,8 +306,8 @@ body {
     justify-content: center;
     margin-bottom: 20px;
 }
-.endescription1
-{
+
+.endescription1 {
 
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
@@ -317,7 +315,28 @@ body {
     margin-top: 20px;
 }
 
+.endform1 {
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+}
 
+.btn-primary4{
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    padding: 30px;
+    border-radius: 8px;
+    border: 0px;
+    background: #E55473;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
 
 
 
